@@ -20,8 +20,11 @@ This project is a Role-Based Access Control (RBAC) Management System built with 
 1. src/main/java/com/example/rbac: Java source files
 
   1.1. Controller: Handles incoming requests and returns views.
+  
   1.2. Service: Business logic for user and role management.
+  
   1.3. Entity: User and role entities mapped to the database.
+  
   1.4. Repository: Database interactions using JPA.
    
 2. src/main/resources/templates: Thymeleaf templates for UI.
